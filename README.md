@@ -34,18 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriela-medeirosantos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="41" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabiscript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="190" alt="languages graph"  />
 </div>
